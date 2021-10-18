@@ -1,0 +1,11 @@
+#
+# General
+#
+projectile p
+element Nb
+mass 93
+energy 20
+#
+# Output
+#
+fileresidual     y
